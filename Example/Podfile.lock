@@ -1,0 +1,14 @@
+PODS:
+  - SIAGeometry (0.1.0)
+
+DEPENDENCIES:
+  - SIAGeometry (from `../`)
+
+EXTERNAL SOURCES:
+  SIAGeometry:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SIAGeometry: 01aa5015e25f90ac27a7c72f8ab7cfa7b0b3126a
+
+COCOAPODS: 0.34.4

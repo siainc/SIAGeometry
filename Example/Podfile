@@ -1,0 +1,7 @@
+target 'SIAGeometry', :exclusive => true do
+  pod "SIAGeometry", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "SIAGeometry", :path => "../"
+end
